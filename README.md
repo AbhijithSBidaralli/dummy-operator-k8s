@@ -61,7 +61,7 @@ make manifests
 kubectl apply -f config/crd/bases/api.interview.com_dummies.yaml
 ```
 You should get following output
-```sh
+```cmd
 customresourcedefinition.apiextensions.k8s.io/dummies.api.interview.com created
 ```
 You can run below command to check if it has been installed succesfully:
