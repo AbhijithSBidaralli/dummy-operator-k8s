@@ -6,4 +6,4 @@ metadata:
 spec:
   message : "I'm just a dummy!"
 status:
-  specEcho : "Success"
+  specEcho : default
