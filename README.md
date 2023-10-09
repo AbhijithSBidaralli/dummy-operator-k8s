@@ -81,7 +81,7 @@ when you run
 kubectl describe  dummy.api.interview.com 
 ```
 you should see following result:
-```cmd
+```console
 Name:         dummy1
 Namespace:    default
 Labels:       <none>
