@@ -73,10 +73,11 @@ kubectl get crd
 make run
 ```
 ### Step 6: Apply the yaml with the Dummy definition
+First open a separate terminal and apply the yaml file:
 ```bash
 kubectl apply -f config/samples/api_v1alpha1_dummy.yaml
 ```
-when you run
+when you run below command,
 ```bash
 kubectl describe  dummy.api.interview.com 
 ```
