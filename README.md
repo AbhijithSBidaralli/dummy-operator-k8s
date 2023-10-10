@@ -31,7 +31,7 @@ Following dependencies recommended:
 
 - Docker
 - Kubernetes and Kubectl
-- Go Lang (version go1.21.1)
+- Go (version go1.21.1)
 - Operator SDK (v1.31.0)
 
 ## Steps to create your own operator
